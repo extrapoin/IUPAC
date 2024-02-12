@@ -69,6 +69,9 @@ Chapter
 
 [Appendix 3](https://iupac.qmul.ac.uk/BlueBook/Papp3.html) Structures for Alkaloids, Steroids, Terpenoids, etc.
 
+
+[buel book](https://iupac.qmul.ac.uk/BlueBook/)
+
 <img data-smiles="CC(C)NC1=CC=C(NC2=CC=CC=C2)C=C1"
     data-smiles-theme='oldschool'
     data-smiles-options="{ 'width': 400, 'height': 400, 'weights': { 'sigma': 12, 'additionalPadding': 30, 'opacity': 0.75 } }"
