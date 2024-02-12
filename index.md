@@ -6,19 +6,7 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
-
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
-
-**_Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013._**
-========================================================================================
+# Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013
 
 Blue Book   
 
@@ -28,6 +16,9 @@ Division VIII Chemical Nomenclature and Structure Representation Division
 
 Prepared for publication by Henri A. Favre and Warren H. Powell,  
 Royal Society of Chemistry, ISBN 978-0-85404-182-4
+
+---
+
 
 **Prepared by G. P. Moss**  
 School of Physical and Chemical Sciences, Queen Mary University of London,  
