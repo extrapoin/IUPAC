@@ -6,6 +6,19 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+
 # Nomenclature of Organic Chemistry. IUPAC Recommendations and Preferred Names 2013
 
 Blue Book   
