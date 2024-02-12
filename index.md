@@ -69,3 +69,22 @@ Chapter
 
 [Appendix 3](https://iupac.qmul.ac.uk/BlueBook/Papp3.html) Structures for Alkaloids, Steroids, Terpenoids, etc.
 
+	<img data-smiles="CC(C)NC1=CC=C(NC2=CC=CC=C2)C=C1"
+    data-smiles-theme='oldschool'
+    data-smiles-options="{ 'width': 400, 'height': 400, 'weights': { 'sigma': 12, 'additionalPadding': 30, 'opacity': 0.75 } }"
+    data-smiles-weights="1,1,1,-1,1,1,1,1,-1,1,1,1,1,1,1,1,1" />
+
+	<div class="content" style="overflow-x: auto">
+		<svg data-smiles="C=CCBr.[Na+].[I-]>CC(=O)C>C=CCI.[Na+].[Br-]  __{'textBelowArrow': '90%'}__"
+			data-smiles-reactant-weights="1,-1,1,1;-0.5;0" data-smiles-product-weights="1,1,1,-1;0.5;0"
+			data-smiles-reaction-options="{ 'weights': { 'normalize': true } }"
+	    data-smiles-theme='oldschool'
+			data-smiles-options="{ 'weights': { 'opacity': 0.5 }}" />
+	</div>
+
+	<script type="text/javascript" src="https://unpkg.com/smiles-drawer@2.1.1/dist/smiles-drawer.min.js"></script>
+	<script>
+		SmiDrawer.apply();
+	</script>
+
+
