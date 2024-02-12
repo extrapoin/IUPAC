@@ -4,8 +4,7 @@ title: 1	General Principles, Rules, and Conventions
 nav_order: 2
 ---
 
-# Configuration
-# Navigation Structure
+# General Principles, Rules, and Conventions
 {: .no_toc }
 
 <details open markdown="block">
