@@ -22,62 +22,6 @@ nav_order: 2
 ---
 # Introduction
 
-</tr>
-
-<tr>
-
-<td>   [P-11](#11)</td>
-
-<td>Scope of nomenclature for organic compounds</td>
-
-</tr>
-
-<tr>
-
-<td>   [P-12](#12)</td>
-
-<td>Preferred, Preselected, and Retained IUPAC Names</td>
-
-</tr>
-
-<tr>
-
-<td>   [P-13](#13)</td>
-
-<td>Operations in Nomenclature of Organic Compounds</td>
-
-</tr>
-
-<tr>
-
-<td>   [P-14](#14)</td>
-
-<td>General Rules</td>
-
-</tr>
-
-<tr>
-
-<td>   [P-15](#15)</td>
-
-<td>Types of Nomenclature</td>
-
-</tr>
-
-<tr>
-
-<td>   [P-16](#16)</td>
-
-<td>Name Writing</td>
-
-</tr>
-
-</tbody>
-
-</table>
-
-<big>**<a name="10">P-10 INTRODUCTION</a>**</big>
-
 For nomenclature purposes, a structure containing at least one carbon atom is considered to be an organic compound and can be named using the principles of organic nomenclature, such as substitutive or replacement nomenclature, as described in this book.
 
 The formation of a systematic name for an organic compound requires first selection and then naming of a parent structure. This basic name may then be modified by prefixes, infixes, and, in the case of a parent hydride, suffixes, which convey precisely the structural changes required to generate the compound in question from the parent structure. In contrast to such systematic names, there are traditional names which are widely used both in industry and academic circles. Examples are acetic acid, benzene, and pyridine. Therefore, when they meet the requirements of utility and when they fit into the general pattern of systematic nomenclature, these traditional names are retained.
@@ -88,7 +32,7 @@ Thus, the existence of preferred IUPAC names does not prevent the use of other n
 
 The concept of preferred IUPAC names is developed as a contribution to the continuing evolution of the IUPAC nomenclature of organic compounds. This book (Recommendations 2013) covers and extends the principles, rules, and conventions described in two former publications: _Nomenclature of Organic Chemistry_, 1979 Edition ([ref. 1](refs.html#ref1)) and _A Guide to IUPAC Nomenclature of Organic Compounds, Recommendations 1993_ ([ref. 2](refs.html#ref2)). In a few instances, the 1979 rules and the 1993 recommendations have been modified to achieve consistency within the entire system. In case of divergence among various sets of recommendations, Recommendations 2013 prevail.
 
-<big>**<a name="11">P-11 SCOPE OF NOMENCLATURE FOR ORGANIC COMPOUNDS</a>**</big>
+## SCOPE OF NOMENCLATURE FOR ORGANIC COMPOUNDS
 
 For nomenclature purposes we consider all compounds containing carbon as the principal element to be organic compounds as qualified above (see [P-10](P10.html)). Oxygen, hydrogen, and nitrogen are the three elements usually associated with carbon to form the system of functional or characteristic groups. Other elements, among them the halogens and sulfur, complete the basic core of elements found in organic compounds. Substitutive nomenclature was first applied to compounds containing this set of atoms. The success of this type of nomenclature was such that it was extended to all elements of Groups 14, 15, 16, 17, and in Group 13, to boron; it could be extended to all elements of Group 13.
 
